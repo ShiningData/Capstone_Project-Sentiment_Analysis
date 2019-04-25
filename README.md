@@ -15,6 +15,7 @@ The data is in Standford Analysis Project (SNAP) webpage. The original data was 
 
 ## Exploratory Data Analysis
 Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Data_Storytelling/Sentiment_Analysis_Data_Storytelling.ipynb)
+Interim report can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Interim_Report/Capstone%20Project%20Interim.pdf)
 
 ## Modeling
 This is a supervised binary classification problem. We are trying to predict the sentiment based on the reviews left by females who bought beauty products in Amazon e-commerce online platform. We used Python’s Scikit Learn libraries to solve the problem. In this context, we implemented Logistic Regression, Random Forest, Naive Bayes, XGBOOST, CatBoost algorithms and Simple Neural Network as well. 
@@ -29,5 +30,5 @@ Modeling notebooks can be reached from following links.
 
 ## Conclusion
 Final report can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Final%20Report.pdf)
-Project Presentation can be found [here]()
-Project Presentation keynote can be found [here]()
+Project Presentation can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Presentation.pptx)
+Project Presentation keynote can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Presentation%20Keynotes.pdf)
