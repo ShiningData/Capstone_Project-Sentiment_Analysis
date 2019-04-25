@@ -30,5 +30,7 @@ Modeling notebooks can be reached from following links.
 
 ## Conclusion
 Final report can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Final%20Report.pdf)
+
 Project Presentation can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Presentation.pptx)
+
 Project Presentation keynote can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Presentation%20Keynotes.pdf)
