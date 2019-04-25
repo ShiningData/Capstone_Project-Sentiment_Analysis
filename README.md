@@ -27,23 +27,7 @@ Modeling notebooks can be reached from following links.
 - [Threshold for word occurence, PCA, Singular Value Decomposition, SMOTE techniques used with Traditional Algorithms](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Sentiment_Analysis-2_EXPWORDLST-SMOTE-PCA-TRNCTDSVD.ipynb)
 - [Word2Vec with Keras](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Sentiment_Analysis-3_Word2Vec-Keras.ipynb)
 
-##
-
-
-
-The original dataset for this project can be found (here)[https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset/home The paper referenced in this project can be found here: https://bradzzz.gitbooks.io/ga-dsi-seattle/content/dsi/dsi_05_classification_databases/2.1-lesson/assets/datasets/DefaultCreditCardClients_yeh_2009.pdf]
-
-The order for this project is as follows:
-
-Project Proposal: https://github.com/gblinick/Springboard-Capstone-1/tree/master/Project%20Proposal
-Data Wrangling: https://github.com/gblinick/Springboard-Capstone-1/tree/master/Data%20Wrangling
-EDA: https://github.com/gblinick/Springboard-Capstone-1/tree/master/EDA
-Inferential Statistics: https://github.com/gblinick/Springboard-Capstone-1/tree/master/Inferential%20Statistics
-Milestone Report: https://github.com/gblinick/Springboard-Capstone-1/tree/master/Milestone%20Report
-In-depth Analysis (Machine Learning): https://github.com/gblinick/Springboard-Capstone-1/tree/master/In-depth%20analysis
-Final Report: https://github.com/gblinick/Springboard-Capstone-1/tree/master/Final%20Report
-The most important files are:
-
-Project Presentation: https://github.com/gblinick/Springboard-Capstone-1/blob/master/Final%20Report/Predicting%20Credit%20Card%20Default%20with%20scikit-learn.pdf
-Project Report: https://github.com/gblinick/Springboard-Capstone-1/blob/master/Final%20Report/Final%20Report.pdf
-In-depth Analysis Notebook: https://github.com/gblinick/Springboard-Capstone-1/blob/master/In-depth%20analysis/In-depth%20Analysis.ipynb
+## Conclusion
+Final report can be found [here](https://github.com/ShiningData/Capstone_Project-Sentiment_Analysis/blob/master/Deliverables/Capstone%20Project%20Final%20Report.pdf)
+Project Presentation can be found [here]()
+Project Presentation keynote can be found [here]()
